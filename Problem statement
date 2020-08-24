@@ -1,0 +1,16 @@
+Problem statement:
+Create a Karel the Robot program that will create the following pattern of beepers on the World from the Robot's starting location.
+
+
+     *****R     Robot ends up at the R, off of the last beeper
+     *
+     *
+     *
+X*****
+Robot starts on the X.  No Beeper is placed there!
+See BrokenBotDesiredOutput for a pic of the desired output.
+
+
+A Foothill student turned in the code in Main.java.  Unfortunately there are MANY mistakes...  I'm sure you are not surprised.  Find and fix the errors. 
+
+Hint:  If you run the code, you will find all of the compile-time (AKA syntax) errors.  There may be logic errors, as well.
